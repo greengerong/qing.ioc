@@ -1,0 +1,36 @@
+{
+  "name": "qing.ioc",
+  "version": "0.0.0",
+  "description": "ioc for node framework",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "ioc",
+    "node"
+  ],
+  "author": "greengerong",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "mocha": "~1.17.1",
+    "coveralls": "~2.8.0",
+    "should": "~3.1.0",
+    "rimraf": "~2.2.5",
+    "q": "~1.0.0",
+    "jshint": "~2.4.1",
+    "graceful-fs": "~2.0.1",
+    "gulp-jshint": "~1.4.0",
+    "mkdirp": "~0.3.5",
+    "istanbul": "~0.2.4",
+    "gulp-mocha": "~0.4.1",
+    "gulp-coverage": "0.0.18",
+    "through2": "~0.4.1",
+    "gulp-clean": "~0.2.4"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+.coverdata
+.coverrun
+temp/debug
+temp/output
+.idea
